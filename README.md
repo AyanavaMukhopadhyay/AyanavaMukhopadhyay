@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AyanavaMukhopadhyay
 - 👀 I’m interested in Machine learning.
-- 🌱 I’m currently learning my course of B.Tech
 - 💞️ I’m looking to collaborate on projects related to solving real world problems using ML
 - 📫 My Linkedin profile is https://in.linkedin.com/in/ayanava-mukhopadhyay-12411417b
 
